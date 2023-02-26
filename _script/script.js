@@ -46,7 +46,7 @@ function verificador() {
     } else if (genero == "Feminino" || genero == "Masculino" && genero != "" && aniversario < 0)  {
     window.alert("Back to the Future: Você ainda não nasceu, gentileza manter a linha temporal.")    
     } else {
-        window.alert('[Errou] Verifique os Dados e tente novamente !')
+        window.alert('[Errou] Verifique os Dados e tente novamente!')
     }
 
     function homemJovem() {
